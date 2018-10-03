@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello version:2" << endl;
+    cout << "source1=Hello version:2" << endl;
 }
